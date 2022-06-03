@@ -4,8 +4,6 @@
 
 ### As a human, entrepreneur and software engineer I define my mission as empowering as much humans as I possibly can to grow and achieve more through digital transformation.
 
-<br />
-
 ### I see patterns in human behavior that tell a story of how some basic day-to-day routines are ineffective, regardless of the environment (household, company, public, etc.) and this story allows me to identify and visualize solutions that I can then shape in the form of software and use to help improve the world one line of code at a time.
 
 <br />
