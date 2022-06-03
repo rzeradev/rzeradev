@@ -6,7 +6,9 @@
 
 <br />
 
-### I see patterns in human behavior that tell a story of how some basic day-to-day routines are ineffective, regardless of the environment (household, company, public, etc.) and this story allows me to identify and visualize solutions that I can then shape in the form of software and use to help improve the world one line of code at a time. <br /><br />
+### I see patterns in human behavior that tell a story of how some basic day-to-day routines are ineffective, regardless of the environment (household, company, public, etc.) and this story allows me to identify and visualize solutions that I can then shape in the form of software and use to help improve the world one line of code at a time.
+
+<br />
 
 ## Where can you reach me?
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@beeblock.com.br)
@@ -23,6 +25,7 @@
 <br />
 
 ## What it is my toolbox these days?
+<div style="display: inline-block;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -54,10 +57,10 @@
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src=""/>
 <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</div>
 
 <br />
 
