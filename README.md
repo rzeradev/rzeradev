@@ -2,7 +2,7 @@
 
 “Your mind is software. Program it. Your body is a shell. Change it. Death is a disease. Cure it.” - Eclipse Phase
 
-### As a human, entrepreneur and software engineer I define my mission as empowering as much humans as I possibly can to grow and achieve more through digital transformation.
+### Driven Senior Full Stack Engineer with over 15 years of experience in crafting, deploying, and optimizing scalable web applications. Specializing in Go, Node, Laravel, Svelte and React, I've successfully led and collaborated with cross-functional teams to bring digital visions to life. My comprehensive understanding of both front-end and back-end technologies ensures seamless integration, resulting in robust, user-centric platforms. Always eager to explore emerging technologies, I am passionate about creating intuitive solutions that drive user engagement and streamline business processes. Open to collaborating with forward-thinking companies that prioritize innovation, efficiency, and user experience.
 
 <br />
 
