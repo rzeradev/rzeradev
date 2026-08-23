@@ -12,8 +12,9 @@ I build in public. If you're building something ambitious, [let's talk](mailto:r
 
 | Product | Type | What it is |
 |---|---|---|
-| [**Animot**](https://animot.io) | Creative Tool | Animated presentation engine — slides that morph, diagrams that flow |
+| [**Orkestrai**](https://orkestrai.app) | Open Source | Orchestrate AI teams for building, designing, marketing, and shipping on a visual canvas. |
 | [**Svelar**](https://svelar.dev) | Open Source | Laravel-inspired full-stack framework on top of SvelteKit 2 |
+| [**Animot**](https://animot.io) | Creative Tool | Animated presentation engine — slides that morph, diagrams that flow |
 | [**BeeBlock**](https://beeblock.com.br) | EdTech | Learn to code by playing games |
 | [**GestaControl**](https://gestacontrol.com) | HealthTech | Health companion app for pregnant women |
 | [**Mercanty**](https://mercanty.com.br) | Consumer | Voice-powered grocery list app |
